@@ -11,8 +11,3 @@ _start:
 	pop edx
 	pop esi
 
-section .data
-
-helloworld:
-        db "Hello World!", 0x0
-
